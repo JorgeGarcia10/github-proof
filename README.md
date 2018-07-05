@@ -1,0 +1,2 @@
+# github-proof
+Simple proof
